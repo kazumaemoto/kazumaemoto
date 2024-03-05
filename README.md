@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- I am a scientist in plasma physics.
+- I am an engineer in electric propulsion.
+- I am a junior assistant professor at Univerity of Tsukuba.
