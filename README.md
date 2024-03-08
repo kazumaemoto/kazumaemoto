@@ -16,6 +16,11 @@ Here are some ideas to get you started:
 -->
 
 - I am a scientist in plasma physics.
-- I am an engineer in electric propulsion.
-- I am a junior assistant professor at Univerity of Tsukuba.
+- I am an engineer in plasma apparatus and electric propulsion.
+- I am currently working on aerospace engineering and nuclear fusion.
+- I am a junior assistant professor at University of Tsukuba.
+- I obtained my Ph.D. at Yokohama National University.
+- I majored in mechanical engineering at Yokohama National University.
+- I live in Japan.
+- How to reach me: please email to me.
 - Pronouns: he/him
